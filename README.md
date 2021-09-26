@@ -8,7 +8,7 @@ The project is a menu driven function the runs through the input from the user. 
 The various python modules used in this project are mediapipe and opencv.
 
 Aim: The aim of this project to help the kindergarten children to learn about different sense organs through live webcam inputs and understand better.
-The frontend of this module is thud developed to provide necessary information about the organs that different co-ordinates are projecting to.
+The frontend of this module is thus developed to provide necessary information about the organs that different co-ordinates are projecting to.
 
 Accuracy: The project can predict the organs and joint with the minimum detection accuracy of 0.5 and minimum tracing accuracy of 0.5.
 
