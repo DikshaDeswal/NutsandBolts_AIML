@@ -10,4 +10,7 @@ The various python modules used in this project are mediapipe, opencv and flask.
 Accuracy: The project can predict the organs and joint with the minimum detection accuracy of 0.5 and minimum tracing accuracy of 0.5.
 
 
-![](image013.jpg)
+![](image001.jpg)
+
+The submit button once pressed releases a webcam that takes live iinputs from the user and displays the reslut. The hand detection model can detect only two hands at a time. The output can be easily terminated by pressing 'd' as a key from the keyboard. Once pressed 'd' the webcam is turned off and website is directed to the page pass.html and display successful run of the model.
+
