@@ -14,3 +14,8 @@ Accuracy: The project can predict the organs and joint with the minimum detectio
 
 The submit button once pressed releases a webcam that takes live iinputs from the user and displays the reslut. The hand detection model can detect only two hands at a time. The output can be easily terminated by pressing 'd' as a key from the keyboard. Once pressed 'd' the webcam is turned off and website is directed to the page pass.html and display successful run of the model.
 
+![](image002.jpg)
+
+The run time view of project is shown in the image below.
+
+![](image013.jpg)
