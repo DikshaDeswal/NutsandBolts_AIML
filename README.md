@@ -12,4 +12,4 @@ The frontend of this module is thus developed to provide necessary information a
 
 Accuracy: The project can predict the organs and joint with the minimum detection accuracy of 0.5 and minimum tracing accuracy of 0.5.
 
-
+![](image005.jpg)
