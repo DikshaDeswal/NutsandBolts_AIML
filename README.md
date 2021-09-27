@@ -19,3 +19,11 @@ The submit button once pressed releases a webcam that takes live iinputs from th
 The run time view of project is shown in the image below.
 
 ![](image013.jpg)
+![](image005.jpg)
+
+Hope you like the project :)
+
+Team NutsandBolts!
+Diksha Deswal
+Prabash Kumar
+Himanshu Singh
