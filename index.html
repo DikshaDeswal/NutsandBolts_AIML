@@ -1,20 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <link rel="stylesheet" href="styles.css">
     <meta charset="UTF-8">
-    <title>NutsandBolts_AI/ML</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images</title>
 </head>
 <body>
-    <h1>________Human Pose Detection Model________</h1>
+    <div class="primary">
+        <h1>________Human Pose Detection Model________</h1>
 
+    
+    </div>
+    <div class="intro">
+        <h1>Welcome!</h1>
+        <p>You have opened NUTsandBolts_AI/ML project.</p>
+        <p> This is contemporary website that predicts human face, hand and body joint landmarks.</p>
+    </div>
+    
     <form class="grid" action="/result" method="POST">
 
         <label>Enter the choice :</label>
-        <input type="text" name="name" id="name">
+        <input type="text" name="name" id="name" class="input">
 
-        <center><input type="Submit" class="file_submit"></center>
+        <center class="btn"><input type="Submit" class="file_submit"></center>
 
     </form>
 
+    <div class="DisplayImage">
+        <div class="img1">
+            <p>Enter "1" to access Hand Detection Model</p>
+            <img src="./Hand.jpeg" alt="" class="Image-1">
+        </div>
+        <div class="img2">
+            <p>Enter "2" to access Face Detection Model</p>
+            <img src="./Face detectiom.jpeg" alt="" class="Image-2">
+        </div>
+        <div class="img3">
+            <p>Enter "3" to access Body Detection Model</p>
+            <img src="./Body-detection.jpeg" alt="" class="Image-3">
+        </div>
+        
+    </div>
+    
 </body>
-</html>
+</html
