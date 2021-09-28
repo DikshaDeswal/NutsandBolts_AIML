@@ -1,6 +1,6 @@
 # NutsandBolts_AIML
 
-____________________________________!_HUMAN POSE DETECTION MODEL_!_______________________________________________
+____________________________________!_HUMAN POSE DETECTION MODEL_!
 
 INTRODUCTION: Artificial Inteligence and Machine Learning have already stirred up excitement in the human society. AI is growing up fast and will reach human levels no sooner. The key to artificial intelligence has always been representation. Every major player is working on this technology of artificial intelligence, as of now it's begin...... But the day is no far off when artificial intelligence will become a necessity and dependency for every human being. 
 
