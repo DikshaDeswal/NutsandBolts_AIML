@@ -4,7 +4,7 @@ ____________________________________!_HUMAN POSE DETECTION MODEL_! _____________
 
 INTRODUCTION: Artificial Inteligence and Machine Learning have already stirred up excitement in the human society. AI is growing up fast and will reach human levels no sooner. The key to artificial intelligence has always been representation. Every major player is working on this technology of artificial intelligence, as of now it's begin...... But the day is no far off when artificial intelligence will become a necessity and dependency for every human being. 
 
-If you are also fascinated by the buzz of ML/AI in the fourth industrial revolutioanlisation then congragulation you have logged into right place!
+If you are also fascinated by the buzz of ML/AI in the fourth industrial revolutioan then congragulation this site will surely help you!
 
 DESCRIPTION: NutsandBols_AI/ML is a deep learning based artificial neural network project that has been designed to successfuly detect and track human body joint landmarks with an accuracy of 0.5. 
 This project is developed using Pycharm IDE. The model is further generated as a rest app using flask. 
