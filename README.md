@@ -50,6 +50,7 @@ Q3.) How neural networks works?
 Each layer of neural networks is assigned with weights and the input of next consecutive layer is directly dependent upon the weights provided.
 y= ΣWiXi
 Hidden layers provides an active function Z that transforms the value in the required scale. 
+![](Documents/1.jpg)
 
 Q4.) What are the activation functions?
 Activation functions decides whether a neuron should be activated or not by calculating weighted sum and further adding bias with it. The purpose oof the activation function is to introduce non-linearity into the output of the neuron.
