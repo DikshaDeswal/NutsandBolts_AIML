@@ -50,13 +50,15 @@ Q3.) How neural networks works?
 Each layer of neural networks is assigned with weights and the input of next consecutive layer is directly dependent upon the weights provided.
 y= ΣWiXi
 Hidden layers provides an active function Z that transforms the value in the required scale. 
-![](Documents/1.jpg)
+![](Documents/1.jpeg)
 
 Q4.) What are the activation functions?
 Activation functions decides whether a neuron should be activated or not by calculating weighted sum and further adding bias with it. The purpose oof the activation function is to introduce non-linearity into the output of the neuron.
+![](Documents/2.jpeg)
 
 Q4.) What is a bias?
 A bias vector is an additional set of weights in a neural network that requires no input, and thus it corresponds to the output of an artificial neural network when it has zero input.
+
 Q5.) What is forward propogation?
 It is a way to move from the input layer to the output layer in the neural network.
 
@@ -66,9 +68,14 @@ The process of moving right to left that is from the output layer to the input l
 Q6.) What is an epoch?
 An epoch means training the neural with all the training data for one cycle.
 
+# Multi-layer Neural Networks
+
+![](Documents/5.jpeg)
+
 #Types of Activation Functions
 1.) Sigmoid Functions
 The sigmoid function transforms a given magnitude in range 0 to 1 and it is used in logistic regression to predict.
+![](Documents/3.jpeg)
 
 Advantages of the sigmoid functions:
 a.) Data normalized between 0 to 1.
@@ -77,19 +84,36 @@ c.) Solves exponential functions faster.
 
 2.) Rel Activation Function
 This function classes the values in positive first quadrant.
+![](Documents/10.jpeg)
 
 3.) Threshold Functions
 The threshold function is also one of the activation function. The derivative of threshold function lies between 0 and 1.
+![](Documents/9.jpeg)
 
 4.) Leaky Relu Function
 Leaky Relu Function may produce vanishing gradient problems if there are two many -ve values.
+![](Documents/1.jpeg)
 
 5.) Exponential Linear Unit(ELU) Functions
+![](Documents/8.jpeg)
 
 6.) PRELU (Parametric Relu)
+![](Documents/12.jpeg)
 
 7.) Swish's Function
 It is a self gated function.
+![](Documents/13.jpeg)
+
+# Chain rule in Back Propogation
+
+![](Documents/7.jpeg)
+
+# Gradient Descent
+
+![](Documents/14.jpeg)
+
+# Weight Updation
+![](Documents/6.jpeg)
 
 Here is the front end of our restapp!
 ![](Images/image001.jpg)
