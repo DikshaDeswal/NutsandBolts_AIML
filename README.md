@@ -74,6 +74,7 @@ An epoch means training the neural with all the training data for one cycle.
 
 #Types of Activation Functions
 1.) Sigmoid Functions
+
 The sigmoid function transforms a given magnitude in range 0 to 1 and it is used in logistic regression to predict.
 ![](Documents/3.jpeg)
 
