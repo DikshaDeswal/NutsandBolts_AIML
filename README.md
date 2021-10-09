@@ -34,6 +34,62 @@ The project takes live input through webcam created using opencv and generates l
 
 We hope this project was helpful in developing better understanding on analogy among biological neural network and artificial neural networks.
 
+# Project Building Outcomes
+
+Q1.) What is Deep Learning?
+
+Deep learning is a specialised field of machine learning that relies on training of deep ANN usin a large data set such as images or texts. ANN are the information processing models inspired by the human brain. 
+Artificial neural networks or simulated neural networks are the heart of the deep learning algorithms. These are the structures used in the solving problems in image processing, speech recognition and natural learning processing. ANN works by mathematically mimicking the human brain and connecting multiple artificial neurons in multi-layered fashion. The more hidden layers added to the network, the deeper the network gets.  
+
+Q2.) What differentiates DL from ML?
+
+ML Process- a.) Selecting the model to train b.) Manually performing feature extraction 
+DL Process- a.) Select the architecture of the network b.) Features are automatically extracted by feeding in the trainging data aloong with the target class.
+
+Q3.) How neural networks works?
+Each layer of neural networks is assigned with weights and the input of next consecutive layer is directly dependent upon the weights provided.
+y= ΣWiXi
+Hidden layers provides an active function Z that transforms the value in the required scale. 
+
+Q4.) What are the activation functions?
+Activation functions decides whether a neuron should be activated or not by calculating weighted sum and further adding bias with it. The purpose oof the activation function is to introduce non-linearity into the output of the neuron.
+
+Q4.) What is a bias?
+A bias vector is an additional set of weights in a neural network that requires no input, and thus it corresponds to the output of an artificial neural network when it has zero input.
+Q5.) What is forward propogation?
+It is a way to move from the input layer to the output layer in the neural network.
+
+Q5.) What is backward propogation?
+The process of moving right to left that is from the output layer to the input layer in the neural network is called backwasrd propogation.
+
+Q6.) What is an epoch?
+An epoch means training the neural with all the training data for one cycle.
+
+#Types of Activation Functions
+1.) Sigmoid Functions
+The sigmoid function transforms a given magnitude in range 0 to 1 and it is used in logistic regression to predict.
+
+Advantages of the sigmoid functions:
+a.) Data normalized between 0 to 1.
+b.) Prevents jump in output values.
+c.) Solves exponential functions faster.
+
+2.) Rel Activation Function
+This function classes the values in positive first quadrant.
+
+3.) Threshold Functions
+The threshold function is also one of the activation function. The derivative of threshold function lies between 0 and 1.
+
+4.) Leaky Relu Function
+Leaky Relu Function may produce vanishing gradient problems if there are two many -ve values.
+
+5.) Exponential Linear Unit(ELU) Functions
+
+6.) PRELU (Parametric Relu)
+
+7.) Swish's Function
+It is a self gated function.
+
 Here is the front end of our restapp!
 ![](Images/image001.jpg)
 
